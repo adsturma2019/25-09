@@ -1,5 +1,11 @@
 [
-    {"img":"f.jpg","name" : "Fulano", "breed": "Persa", "sex":"macho"},
+    {
+        "img":"f.jpg",
+        "name" : "Fulano",
+        "breed": "Persa", 
+        "sex":"macho"
+    },
+    
     {"img":"c.jpg","name" : "Ciclano", "breed": "Rottweiler", "sex":"macho"},
     {"img":"a.jpg","name" : "Amarela", "breed": "Boxer", "sex":"femea"},
     {"img":"t.jpg","name" : "Thor", "breed": "pitbull", "sex":"macho"}
